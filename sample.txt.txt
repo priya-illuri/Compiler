@@ -1,0 +1,7 @@
+start
+MOV11 ax,bx
+MOV2 ax,bx
+ADD a1,b1
+SUB a2,b2
+READ a
+PRINT b
